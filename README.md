@@ -70,3 +70,7 @@ The interactive Power BI dashboard answers key business questions, including:
 8. Conclusion
 
 This project demonstrates how data analysis and visualization can provide valuable insights for a small travel and tour company. By leveraging tools like Excel and Power BI, Ghana Adventures can make informed decisions that drive growth, increase retention, and improve tour performance.
+
+9. Tools and Tech Stack
+   - Excel
+   - Power BI
