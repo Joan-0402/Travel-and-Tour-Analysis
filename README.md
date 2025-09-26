@@ -2,7 +2,7 @@
 The aim of this project was to generate data-driven insights to boost underperforming tour packages, bookings and improve customer retention for Ghana Adventures, a travel and tour company.
 
 1. Project Overview
-The project uses data from a small travel and tour company in Tamale known as Ghana Adventures, to conduct analyuis and create an interactive dashboard in Power Bi to answer the following questions
+The project uses data from a small travel and tour company in Tamale known as Ghana Adventures, to conduct analysis and create an interactive dashboard in Power Bi to answer the following questions
 - How can Ghana Adventures use data-driven marketing to boost off-season bookings? 
 - Which tours should be expanded, adjusted, or discontinued? 
 - How can they encourage customer loyalty and repeat bookings?
