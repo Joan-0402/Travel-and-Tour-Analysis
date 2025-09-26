@@ -19,7 +19,7 @@ The objective of the project is to
 
 2. Data Understanding
    
-Fields: Date, Customer ID, Tour Package, Destination, Price (GHS), Booking Type, Repeat Customer, Season, Booking Channel
+  Fields: Date, Customer ID, Tour Package, Destination, Price (GHS), Booking Type, Repeat Customer, Season, Booking Channel
 
 4. Methodology
 Data Cleaning (Excel):
