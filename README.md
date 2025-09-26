@@ -20,12 +20,6 @@ The objective of the project is to
 2. Data Understanding 
 Fields: Date, Customer ID, Tour Package, Destination, Price (GHS), Booking Type, Repeat Customer, Season, Booking Channel
 
-Data preparation included:
-
-- Converting dates into a standard format
-- Cleaning revenue column (Price (GHS)) to numeric values
-
-
 3. Methodology
 Data Cleaning (Excel):
 
