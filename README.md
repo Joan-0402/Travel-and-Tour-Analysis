@@ -17,10 +17,11 @@ The objective of the project is to
 - Recommend data-driven strategies to improve off-peak seasons, customer retentions and tour performance
 
 
-2. Data Understanding 
+2. Data Understanding
+   
 Fields: Date, Customer ID, Tour Package, Destination, Price (GHS), Booking Type, Repeat Customer, Season, Booking Channel
 
-3. Methodology
+4. Methodology
 Data Cleaning (Excel):
 
  - Date formatting
